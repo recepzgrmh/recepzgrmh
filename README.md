@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Recep Özgür</h1>
-<h3 align="center">a 3rd-year Computer Science student with a keen interest in mobile programming.</h3>
+<h3 align="center">a 4th-year Computer Science student with a keen interest in mobile programming.</h3>
 
 <hr>
 
