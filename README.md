@@ -68,17 +68,19 @@
 ## 📊 GitHub Stats
 
 <table align="center">
-  <tr>
+  <tr valign="top">
     <td>
       <img
         src="https://github-readme-stats.vercel.app/api?username=recepzgrmh&show_icons=true&theme=radical&title=Recep%20Özgür%20MIH's%20GitHub%20Stats"
         alt="Recep Özgür’s GitHub Stats"
+        style="height:200px;"
       />
     </td>
     <td>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=recepzgrmh&theme=radical"
         alt="Most Used Languages"
+        style="height:200px;"
       />
     </td>
   </tr>
