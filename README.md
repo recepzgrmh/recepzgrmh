@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIxc2x6a2ZnNXp6dTFtaHpyd3d2dzF5N2FoYXJkaXkxeDVjczVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" alt="Tech Animation" width="100%"/>
-</p>
+<div style="width:20%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/GRPy8MKag9U1U88hzY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sesamestreet-sesame-street-cookie-monster-GRPy8MKag9U1U88hzY">via GIPHY</a></p>
 
 
 <h1 align="center">Hi there, I’m Recep Özgür 👋</h1>
