@@ -1,15 +1,30 @@
 <h1 align="center">Hi there, I’m Recep Özgür 👋</h1>
 <p align="center">
- <a href="https://twitter.com/recep_zgr07" target="_blank" rel="noopener noreferrer">
+ <a href="https://twitter.com/recep_zgr07">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/recep_zgr07?style=social" />
   </a>
-  <a href="https://www.linkedin.com/in/recepozgurmih/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/recepozgurmih/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Recep%20Özgür-blue?style=social&logo=linkedin" />
   </a>
-   <a href="https://leetcode.com/recepzgrmh" target="_blank" rel="noopener noreferrer">
+   <a href="https://leetcode.com/recepzgrmh">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-recepzgrmh-yellow?style=social&logo=leetcode" />
   </a>
 </p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=recepzgrmh&style=flat-square&color=blueviolet"
+    alt="Profile views"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://visitor-badge.glitch.me/badge?page_id=recepzgrmh.recepzgrmh"
+    alt="Visitor Badge"
+  />
+</p>
+
 
 ---
 
@@ -19,6 +34,7 @@
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3EwdmwzcTIwM2htM3c3N2w1Y2w3OGFhYzI1MmF2NjQzYnJrdXd1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" 
     alt="Tech Animation" 
     width="50%" 
+   style="max-width:400px; height:auto;"
   />
 </p>
 
