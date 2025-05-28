@@ -1,13 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3EwdmwzcTIwM2htM3c3N2w1Y2w3OGFhYzI1MmF2NjQzYnJrdXd1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" 
-    alt="Tech Animation" 
-    width="60%" 
-  />
-</p>
-
-
 <h1 align="center">Hi there, I’m Recep Özgür 👋</h1>
 <p align="center">
   <a href="https://twitter.com/recep_zgr07">
@@ -22,6 +12,16 @@
 </p>
 
 ---
+
+<!-- Banner -->
+<p align="center">
+  <img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3EwdmwzcTIwM2htM3c3N2w1Y2w3OGFhYzI1MmF2NjQzYnJrdXd1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" 
+    alt="Tech Animation" 
+    width="50%" 
+  />
+</p>
+
 
 ## 👨‍💻 About Me
 
