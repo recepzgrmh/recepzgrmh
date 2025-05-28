@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I’m Recep Özgür 👋</h1>
 <p align="center">
-  <a href="https://twitter.com/recep_zgr07">
+  <a href="https://twitter.com/recep_zgr07 "target="_blank">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/recep_zgr07?style=social" />
   </a>
-  <a href="https://www.linkedin.com/in/recepozgurmih/">
+  <a href="https://www.linkedin.com/in/recepozgurmih/ "target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Recep%20Özgür-blue?style=social&logo=linkedin" />
   </a>
-  <a href="https://leetcode.com/recepzgrmh">
+  <a href="https://leetcode.com/recepzgrmh" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-recepzgrmh-yellow?style=social&logo=leetcode" />
   </a>
 </p>
