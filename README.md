@@ -1,24 +1,73 @@
-<h1 align="center">Hi 👋, I'm Recep Özgür</h1>
-<h3 align="center">a 4th-year Computer Science student with a keen interest in mobile programming.</h3>
-
-<hr>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=recepzgrmh&label=Profile%20views&color=338456&style=flat" alt="recepzgrmh" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/recep_zgr07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="recep_zgr07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/recep-özgür-mih-591935222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="recep-özgür-mih-591935222" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/recepzgrmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="recepzgrmh" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/recepzgrmh/recepzgrmh/master/assets/banner.png" alt="banner" width="100%" />
 </p>
 
-<hr>
+<h1 align="center">Hi there, I’m Recep Özgür 👋</h1>
+<p align="center">
+  <a href="https://twitter.com/recep_zgr07">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/recep_zgr07?style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/recepozgurmih/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Recep%20Özgür-blue?style=social&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/recepzgrmh">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-recepzgrmh-yellow?style=social&logo=leetcode" />
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=recepzgrmh&show_icons=true&theme=dark&locale=en&layout=compact" alt="recepzgrmh" /></p>
-<hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=recepzgrmh&show_icons=true&theme=dark&locale=en" alt="recepzgrmh" /></p>
-<hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=recepzgrmh&theme=dark" alt="recepzgrmh" /></p>
+## 👨‍💻 About Me
+
+- 🎓 **4th-year Computer Science** student  
+- 📱 Building **mobile apps with Flutter & Dart** — that’s my sole focus right now  
+- 🚀 On a mission to level-up my **Flutter** expertise  
+- 💾 Diving into **backend development** (APIs, server-side logic, cloud functions)  
+- 📫 Reach me at [recep.ozgur.mih@gmail.com](mailto:recep.ozgur.mih@gmail.com)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original-wordmark.svg" alt="REST API" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
+</p>
+
+---
+
+## 🚀 Selected Projects
+
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| [📱 Horoscope App](https://github.com/recepzgrmh/Horoscope_App) | Horoscope App is a social media application that includes horoscope comments | Flutter · Dart · Firebase · Gemini |
+| [🤖 DoktorumOnline](https://github.com/recepzgrmh/DoktorumOnline-AI) | DoktorumOnline AI – is a mobile health assistant application developed with Flutter, using Firestore + Firebase Auth infrastructure. | Flutter · Dart · Firebase · OpenAI |
+| [🔧 Spirit Level](https://github.com/recepzgrmh/Spirit_Level) | This is a spirit level app made using Flutter Framework. | Flutter · Dart |
+| [🌐 Portfolio](https://github.com/recepzgrmh/recepzgrmh.github.io) |This page was created as a testing ground to try out the information I learned. | HTML · CSS · JAVASCRIPT |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=recepzgrmh&show_icons=true&theme=radical" alt="Recep Özgür’s GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recepzgrmh&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="mailto:recep.ozgur.mih@gmail.com">
+    <img src="https://img.shields.io/badge/Email-recep@youremail.com-red?style=flat&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://twitter.com/recep_zgr07">
+    <img src="https://img.shields.io/twitter/follow/recep_zgr07?label=Follow&style=social" alt="Twitter Follow" />
+  </a>
+</p>
