@@ -71,7 +71,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=recepzgrmh&show_icons=true&theme=radical&title=Recep%20Özgür%20MIH's%20GitHub%20Stats"
     alt="Recep Özgür’s GitHub Stats"
-    style="height:250px; width:auto;"
+    style="height:200px; width:auto;"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=recepzgrmh&theme=radical"
