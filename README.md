@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/recepzgrmh/recepzgrmh/master/assets/banner.png" alt="banner" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIxc2x6a2ZnNXp6dTFtaHpyd3d2dzF5N2FoYXJkaXkxeDVjczVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" alt="Tech Animation" width="100%"/>
 </p>
+
 
 <h1 align="center">Hi there, I’m Recep Özgür 👋</h1>
 <p align="center">
