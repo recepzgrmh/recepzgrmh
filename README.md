@@ -68,19 +68,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=recepzgrmh&show_icons=true&theme=radical&title=Recep%20Özgür%20MIH's%20GitHub%20Stats"
-    alt="Recep Özgür’s GitHub Stats"
-    style="height:200px; width:auto;"
-  />
- 
-
- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
- <br>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=recepzgrmh&theme=radical"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/recepzgrmh">
+    <img src="https://github-readme-stats.vercel.app/api?username=recepzgrmh&show_icons=true&theme=radical" alt="Recep Özgür MIH's GitHub Stats" />
+  </a>
+  <a href="https://github.com/recepzgrmh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recepzgrmh&theme=radical" alt="Top Languages" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/recepzgrmh">
+    <img src="https://streak-stats.demolab.com/?user=recepzgrmh&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
 
 
