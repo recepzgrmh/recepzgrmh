@@ -73,13 +73,16 @@
     alt="Recep Özgür’s GitHub Stats"
     style="height:200px; width:auto;"
   />
+ 
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+ <br>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=recepzgrmh&theme=radical"
     alt="Top Languages"
   />
-
- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 </p>
+
 
 
 
