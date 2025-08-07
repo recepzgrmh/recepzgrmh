@@ -59,6 +59,7 @@
 | [📱 **Horoscope App**](https://github.com/recepzgrmh/Horoscope_App) | Horoscope App is a social media application that includes horoscope comments | Flutter · Dart · Firebase · Gemini |
 | [🤖 **DoktorumOnline**](https://github.com/recepzgrmh/DoktorumOnline-AI) | DoktorumOnline AI – is a mobile health assistant application developed with Flutter | Flutter · Dart · Firebase · OpenAI |
 | [🔧 **Spirit Level**](https://github.com/recepzgrmh/Spirit_Level) | This is a spirit level app made using Flutter Framework | Flutter · Dart |
+| [🔑 **Flutter Encryption**](https://github.com/recepzgrmh/flutter-encryption-demo) | Flutter demo to understand and implement AES encryption | Flutter · Dart · Encrypt  · flutter_animate · glass_kit |
 | [🌐 **Portfolio**](https://github.com/recepzgrmh/recepzgrmh.github.io) | This page was created as a testing ground to try out the information I learned | HTML · CSS · JavaScript |
 
 </div>
